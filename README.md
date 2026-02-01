@@ -20,5 +20,5 @@ Custom WordPress theme built for the Internee.pk Virtual Internship "Introduce Y
 - PDF: `assets/site-preview.pdf`
 
 ## Notes
-- Built without page builders.
-- Uses semantic HTML and responsive CSS.
+- Built using drag-and-drop tools (Elementor).
+- Responsive layout for mobile and desktop.
