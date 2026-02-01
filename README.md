@@ -16,6 +16,9 @@ Custom WordPress theme built for the Internee.pk Virtual Internship "Introduce Y
 2. Activate **Internee Profile** in WordPress.
 3. Visit the home page to see the front-page layout.
 
+## Preview
+- PDF: `assets/site-preview.pdf`
+
 ## Notes
 - Built without page builders.
 - Uses semantic HTML and responsive CSS.
