@@ -3,7 +3,8 @@
 Custom WordPress theme built for the Internee.pk Virtual Internship "Introduce Yourself" project.
 Built using drag-and-drop tools (Elementor).
 
-Preview (PDF): `preview.pdf`
+Preview (click to open PDF):
+[![Site Preview](preview.png)](preview.pdf)
 
 ## Contents
 - `style.css`
