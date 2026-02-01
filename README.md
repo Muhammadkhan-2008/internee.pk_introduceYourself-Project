@@ -1,6 +1,9 @@
 # Internee Profile - Introduce Yourself Theme
 
 Custom WordPress theme built for the Internee.pk Virtual Internship "Introduce Yourself" project.
+Built using drag-and-drop tools (Elementor).
+
+Preview (PDF): `preview.pdf`
 
 ## Contents
 - `style.css`
@@ -16,9 +19,5 @@ Custom WordPress theme built for the Internee.pk Virtual Internship "Introduce Y
 2. Activate **Internee Profile** in WordPress.
 3. Visit the home page to see the front-page layout.
 
-## Preview
-- PDF: `assets/site-preview.pdf`
-
 ## Notes
-- Built using drag-and-drop tools (Elementor).
 - Responsive layout for mobile and desktop.
